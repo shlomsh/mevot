@@ -2,7 +2,7 @@
 
 ## Completed
 - [x] Scaffold Next.js project (App Router + TypeScript + Tailwind v4)
-- [x] Configure custom color palette (#576A8B, #B7BDF7, #FFF8DE, #FF7444)
+- [x] Configure custom color palette (updated to #A5C89E, #FFFBB1, #D8E983, #AEB877)
 - [x] Set up RTL layout with Hebrew (Heebo) font
 - [x] Build Hero section — full-screen gradient, logo, title, intro text
 - [x] Build ProgramCard component — alternating accents, grade badges, fade-in animations
@@ -19,8 +19,10 @@
 - [x] Split programs into two sections with parallax breaks in between
 - [x] Verify full visual redesign in browser — all images, video, parallax, gallery working
 
+## Deployed
+- Live at: https://shlomsh.github.io/mevot/
+
 ## Pending
 - [ ] Add real navigation bar if expanding to full site
 - [ ] Consider adding mobile hamburger menu
-- [ ] Optimize for production deployment (`npm run build`)
 - [ ] Add favicon / meta images

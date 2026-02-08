@@ -70,8 +70,6 @@ public/images/
 - **Staggered animation delays** using `animationDelay: index * 0.08s`
 - **Video background** with dark gradient overlay for hero readability
 
-## Dev Server
-Uses port **3001** (port 3000 may be occupied). Run with:
-```bash
-npx next dev --port 3001
-```
+## Deployment
+- **Live URL**: https://shlomsh.github.io/mevot/
+- **Local dev**: `npx next dev --port 3001` (port 3000 may be occupied)

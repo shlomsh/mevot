@@ -6,7 +6,7 @@ export default function Footer() {
       {/* Background image */}
       <div
         className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: "url(/images/greenhouse/field3.jpg)" }}
+        style={{ backgroundImage: "url(/mevot/images/greenhouse/field3.jpg)" }}
       />
       <div className="absolute inset-0 bg-[#2d3d2a]/90" />
 
@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="max-w-4xl mx-auto px-8 text-center">
           <div className="flex justify-center mb-6">
             <Image
-              src="/images/logo.png"
+              src="/mevot/images/logo.png"
               alt="לוגו מבואות עירון"
               width={48}
               height={72}

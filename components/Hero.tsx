@@ -26,7 +26,7 @@ export default function Hero() {
         <div className="mb-8 flex justify-center">
           <div className="relative w-20 h-28 md:w-24 md:h-36">
             <Image
-              src="/images/logo.png"
+              src="/mevot/images/logo.png"
               alt="לוגו מבואות עירון"
               fill
               className="object-contain drop-shadow-[0_4px_24px_rgba(0,0,0,0.5)]"

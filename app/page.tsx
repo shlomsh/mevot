@@ -9,7 +9,7 @@ const programsTop = [
     title: "מייקרס",
     grade: "שכבות ח׳ ו-ט׳",
     icon: "🔧",
-    image: "/images/greenhouse/research.jpg",
+    image: "/mevot/images/greenhouse/research.jpg",
     description:
       "בתכנית מפתחים פתרונות לאתגרים שונים בתחום החקלאות והסביבה באמצעות מייקינג בדגש על חשיבה יצירתית, פיתוח כלים יישומיים לתכנון ועיצוב תוך ביטוי אישי מקורי. הפתרונות משלבים מגוון טכנולוגיות הנגרות ובנייה בחומרים שונים, דרך מידול והדפסת תלת מימד ועד תכנות בקרים וחיישנים (מיקרוביט).",
   },
@@ -17,7 +17,7 @@ const programsTop = [
     title: "תוכנית מאסטר פוד",
     grade: "מצוינות שכבת ט׳",
     icon: "🍽️",
-    image: "/images/greenhouse/plants.jpg",
+    image: "/mevot/images/greenhouse/plants.jpg",
     description:
       "תכננו בצוותים מנה בריאה המבוססת על חומר גלם מועמד כחלבון העתיד: האצה אולווה, ספירולינה, עשב חיטה, האצה גרצילריה ועדשת המים. למדנו את חשיבות ערכם התזונתי של מרכיבי המזון.",
   },
@@ -25,7 +25,7 @@ const programsTop = [
     title: "חיידקים בשירות האדם",
     grade: "מצוינות ט׳",
     icon: "🔬",
-    image: "/images/greenhouse/lab.jpg",
+    image: "/mevot/images/greenhouse/lab.jpg",
     description:
       "בתכנית זו נחשפנו לשיטות לשימור מזון, התנסינו בשיטות מסורתיות כמו התססה וכבישה ובודדנו מהם חיידקים. התנסנו בעבודת מעבדה מיקרוביולוגית, כגון זריעה, בידוד וגידול חיידקים במצעים שונים. חקרנו את עולם המיקרואורגניזמים ותפקידם במחזור החיים ועוד.",
   },
@@ -33,7 +33,7 @@ const programsTop = [
     title: "חקלאות העתיד",
     grade: "מדעים שכבת י׳",
     icon: "🌱",
-    image: "/images/greenhouse/greenhouse1.jpg",
+    image: "/mevot/images/greenhouse/greenhouse1.jpg",
     description:
       "התכנית עוסקת בחקלאות העתיד, שילוב בין טכנולוגיה, חקלאות, סביבה ומדע. האתגר המרכזי הוא איך להאכיל 10 מיליארד אנשים באמצעות כדור ארץ אחד, ובמילים אחרות – כיצד להנגיש מזון בריא לאנשים, כיצד לייצר יותר מזון באמצעות פחות משאבים.",
   },
@@ -44,7 +44,7 @@ const programsBottom = [
     title: "הידרופוניקה",
     grade: "מב״ר א׳",
     icon: "💧",
-    image: "/images/greenhouse/hydroponics.jpg",
+    image: "/mevot/images/greenhouse/hydroponics.jpg",
     description:
       "התלמידים עברו הכשרה על כל המיומנויות הדרושות לבנייה וגידול של מערכת הידרופוניקה (שימוש בכלים בסדנת בנייה בעץ, עבודה עם צינורות ומשאבות, מכשירים למדידות ריכוז הידרופוניקה ועוד…). מתוך התנסות חוויתית, בניית קיטים – התלמידים למדו על צרכי הצמח הבסיסיים, תהליך הפוטוסינתזה, תהליכים מכניים במערכות אקווה והידרו פוניקה.",
   },
@@ -52,7 +52,7 @@ const programsBottom = [
     title: "ביו-מימיקרי",
     grade: "שכבת י׳",
     icon: "🦋",
-    image: "/images/greenhouse/students.jpg",
+    image: "/mevot/images/greenhouse/students.jpg",
     description:
       "התוכנית עוסקת בפיתוח פתרונות יצירתיים לאתגרים בהשראת הטבע. במסגרת השליש הראשון הכרנו דוגמאות של ביומימיקרי שפיתחו אחרים, התחלקנו לצוותים, ניתחנו כתבה מדעי, יצרנו סרטון מדובב ומצגת המתארת את הפיתוח ואת ההשראה. בשליש השני נעסוק בפרויקט של בניית משחקי חצר לתלמידי ״קשתות״ בהשראת בעלי חיים.",
   },
@@ -60,7 +60,7 @@ const programsBottom = [
     title: "ביו-דיזיין",
     grade: "שכבת י׳",
     icon: "🎨",
-    image: "/images/greenhouse/teaching.jpg",
+    image: "/mevot/images/greenhouse/teaching.jpg",
     description:
       "מטרת התכנית לתכנן ולעצב את מערכות החיים העתידיות במגוון קנה מידה – מהמוצר, דרך סביבות המגורים ועד מערכות עירוניות. בתכנית אנו מפתחים חלופות עיצוביות חכמות לבעיות אקולוגיות תוך יצירת סימביוזה חדשה עם הטבע.",
   },
@@ -68,21 +68,21 @@ const programsBottom = [
     title: "יום חממה יער – פרויקט גומא",
     grade: "פרויקט מיוחד",
     icon: "🌳",
-    image: "/images/greenhouse/aerial.jpg",
+    image: "/mevot/images/greenhouse/aerial.jpg",
     description:
       "התלמידים לומדים על תחומים רבים ומגוונים, שותפים לפרויקטים רבים, משתתפים פעילים במחקרים בשת״פ עם חוקרי החממה, פעילים משמעותיים מאד בפרויקטים שונים בחממה המערבים תלמידים, מומחים, עבודות תחזוקה ומיצגים אמנותיים.",
   },
 ];
 
 const galleryPhotos = [
-  { src: "/images/greenhouse/field1.jpg", alt: "עבודת שדה בחממה" },
-  { src: "/images/greenhouse/field2.jpg", alt: "פעילות חקלאית" },
-  { src: "/images/greenhouse/research.jpg", alt: "מחקר בחממה" },
-  { src: "/images/greenhouse/plants.jpg", alt: "צמחים בחממה" },
-  { src: "/images/greenhouse/hydroponics.jpg", alt: "מערכת הידרופונית" },
-  { src: "/images/greenhouse/students.jpg", alt: "תלמידים בחממה" },
-  { src: "/images/greenhouse/lab.jpg", alt: "עבודת מעבדה" },
-  { src: "/images/greenhouse/teaching.jpg", alt: "הוראה בחממה" },
+  { src: "/mevot/images/greenhouse/field1.jpg", alt: "עבודת שדה בחממה" },
+  { src: "/mevot/images/greenhouse/field2.jpg", alt: "פעילות חקלאית" },
+  { src: "/mevot/images/greenhouse/research.jpg", alt: "מחקר בחממה" },
+  { src: "/mevot/images/greenhouse/plants.jpg", alt: "צמחים בחממה" },
+  { src: "/mevot/images/greenhouse/hydroponics.jpg", alt: "מערכת הידרופונית" },
+  { src: "/mevot/images/greenhouse/students.jpg", alt: "תלמידים בחממה" },
+  { src: "/mevot/images/greenhouse/lab.jpg", alt: "עבודת מעבדה" },
+  { src: "/mevot/images/greenhouse/teaching.jpg", alt: "הוראה בחממה" },
 ];
 
 export default function Home() {
@@ -134,7 +134,7 @@ export default function Home() {
 
       {/* Parallax break */}
       <ParallaxSection
-        imageSrc="/images/greenhouse/field1.jpg"
+        imageSrc="/mevot/images/greenhouse/field1.jpg"
         alt="שדות החממה האקולוגית"
       >
         <h3 className="text-white text-3xl md:text-5xl font-black mb-4 drop-shadow-[0_2px_12px_rgba(0,0,0,0.4)]">
@@ -166,7 +166,7 @@ export default function Home() {
 
       {/* Parallax break */}
       <ParallaxSection
-        imageSrc="/images/greenhouse/field2.jpg"
+        imageSrc="/mevot/images/greenhouse/field2.jpg"
         alt="פעילות חקלאית בחממה"
       >
         <h3 className="text-white text-3xl md:text-5xl font-black mb-4 drop-shadow-[0_2px_12px_rgba(0,0,0,0.4)]">
